@@ -12,7 +12,7 @@ I had a pet Miniature pig that lived in the house with us. His name was Christop
 
 
 
-•	What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your 
+•	**What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your 
 interest? Outline your IT experience (if any).
 
 My main interest in IT started when growing up around my father’s small business. He worked managing a wholesale plant nursery,
