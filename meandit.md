@@ -1,15 +1,14 @@
 Tim Rennick 
 s3806967
 tim.poddie@gmail.com 
+
+
 My name is Tim Rennick, I was born and raised in Victoria. My parents are both Australian; however my grandparents were Czech refugees,
 who fled to Australia after world war two. I am agnostic, but was educated at a private catholic school in Melbourne, before briefly
 attending Deakin University. After deferring at the end of the second semester, I opted to work fulltime instead. I started working in
 Superannuation in late 2017, and have been there since. In May of 2019 I decided to advance my education by studying a Bachelor of 
 Business online with RMIT, while still working. I enjoy reading, playing games on computers and playing tennis. While growing up, 
 I had a pet Miniature pig that lived in the house with us. His name was Christopher. 
-
-
-
 
 
 
