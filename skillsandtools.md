@@ -1,4 +1,6 @@
-Tools, Technologies and Skills required 
+[Home](.)
+
+**Tools, Technologies and Skills required** 
 
 The greatest hardware requirement will come from the contact centre team. This team who will answer calls and receive emails will require an array of technological devices to stay up to date. They will as a minimum require an office location with a strong internet connection. Each person must have their own computer and phone, along with an assigned working space. However, to manage costs, I would recommend using an external contracted company to oversee the contact centre. The servers containing the app information must also be rented from a large service providing company. 
 In terms of software, the extensions into share trading and investment can be imported from a large share trading platform. This will save the need of attempting to design a share trading app from scratch. The main app will be designed using the App development tool Alpha Anywhere. I have selected this technology as it flexible, reliable and has a reputation for allowing rapid development. It’s main appeal to me is the minimal coding required, and can how it can be used by both the front and back end of development and deployment. 
