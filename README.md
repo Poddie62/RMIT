@@ -8,7 +8,7 @@ Ideal Job at
 [What I want to be when I grow Up](/RMIT/IdealJob)
 
 Personal Profile at
-[All about me(/RMIT/personalprofile)
+[All about me](/RMIT/personalprofile)
 
 
 My Project Idea
