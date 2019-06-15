@@ -5,7 +5,7 @@ Personal Information & IT interest at
 [Me and IT](/RMIT/meandit)
 
 Ideal Job at
-[What I want to be when I grow Up](/RMIT/IdealJob)
+[What I want to be when I grow Up](/RMIT/idealjob)
 
 Personal Profile at
 [All about me](/RMIT/personalprofile)
