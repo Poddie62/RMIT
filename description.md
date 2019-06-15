@@ -1,3 +1,5 @@
+[Home](.)
+
 **What is this App?** 
 
 The product to be launched is an app based investment platform that functions for superannuation. It would allow the common Australian with a minimum of $5000 in super to be able to invest their own money as they prefer, in a vast range of investment options. 
