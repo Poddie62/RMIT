@@ -9,12 +9,15 @@ Myers Briggs Test
 
 Learning style Test: 
 
+![Learning Style](idealjob.png)
  
 (Source 2: What’s your learning style?) 
 
 
 
 Creativity Test 
+
+![Creativity Test](creativity.png)
  
 (Source 3: Test my Creativity) 
 
