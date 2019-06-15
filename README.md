@@ -1,4 +1,4 @@
-Welcome to my Website. Please see below for my first assignment 
+**Welcome to my Website. Please see below for my first assignment** 
 
 
 Personal Information & IT interest at
@@ -15,4 +15,4 @@ My Project Idea
 * [Overview and Motivation](/RMIT/overviewmotivation)
 * [What is this App?](/RMIT/description)
 * [Skills and tools](/RMIT/skillsandtools)
-* [desired outcome](/RMIT/outcome)
+* [Desired outcome](/RMIT/outcome)
