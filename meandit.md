@@ -13,7 +13,7 @@ I had a pet Miniature pig that lived in the house with us. His name was Christop
 
 
 •	**What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your 
-interest? Outline your IT experience (if any).
+interest? Outline your IT experience (if any).**
 
 My main interest in IT started when growing up around my father’s small business. He worked managing a wholesale plant nursery,
 and every day would have to travel to work in order to switch on sprinklers to water the plants. This was a daily ritual that continued until I was around 6, when he bought his first work computer. Unlike any computer I had seen before, this brick of a computer ran on a DOS based system to do nothing but water plants. From that day on, instead of travelling to work and back, my dad would only need to press a few buttons from home. He explained that this strange computer could automatically trigger the sprinklers without him even being there. By that age, I had been using our extremely old home PC for games like Pong, or Need for Speed. However I remember being quite surprised and intrigued that the computer he used actually served a tangible purpose other than entertainment, Since then, while I still play quite a few computer games, I have always been interested in how IT has revolutionised many aspects of workplaces around the world. 
@@ -22,7 +22,7 @@ I serve. Working in superannuation, IT is essential for the quick and accurate d
 the phone. While I am familiar with computers and their basic operating systems as well as the office Suite, I have a limited amount 
 of experience in coding or any back end activities. 
 
-•	Why did you choose to come to RMIT?
+•	**Why did you choose to come to RMIT?**
 
 RMIT and their courses offer me the best opportunity for success and learning in the future. Living in Melbourne, RMIT is often regarded
 as a top university in many fields, with a strong reputation on delivering a good education. Many of my friends and colleagues have
@@ -31,7 +31,7 @@ with Open Universities Australia also allows me to complete my studies with them
 arrangement greatly appeals to me and my desire to work while studying. 
 
 
-•	What do you expect to learn during your studies?
+•	**What do you expect to learn during your studies?**
 
 In this particular subject, I look forward to engaging with likeminded people and cooperating with them to learn more about IT and what is involved in it. It would be interesting to me to understand the development of IT products and the planning that goes into each one. I hope in the future to be able to work in my chosen field of finance, and be able to suggest and integrate IT solutions into problems faced. 
 Overall in this course with RMIT, I want to develop my skills in my chosen subjects, while also striving to improve myself personally. My current job requires no homework or commitments outside of regular work hours. I hope that by enrolling in this course, I will be able to improve my own self-discipline and work ethic when alone. I feel that these attributes play a large part in any successful venture, and that working hard at the work set to me will help me improve these skills. 
