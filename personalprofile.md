@@ -9,7 +9,7 @@ Myers Briggs Test
 
 Learning style Test: 
 
-![Learning Style](idealjob.png)
+![Learning Style](learningstyle.png)
  
 (Source 2: What’s your learning style?) 
 
