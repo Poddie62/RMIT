@@ -1,6 +1,6 @@
-Tim Rennick 
-s3806967
-tim.poddie@gmail.com 
+Name: Tim Rennick 
+Student ID: s3806967
+Email: tim.poddie@gmail.com 
 
 
 My name is Tim Rennick, I was born and raised in Victoria. My parents are both Australian; however my grandparents were Czech refugees,
@@ -10,7 +10,7 @@ Superannuation in late 2017, and have been there since. In May of 2019 I decided
 Business online with RMIT, while still working. I enjoy reading, playing games on computers and playing tennis. While growing up, 
 I had a pet Miniature pig that lived in the house with us. His name was Christopher. 
 
-
+![Griff and Christopher](20150817.png)
 
 •	**What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your 
 interest? Outline your IT experience (if any).**
