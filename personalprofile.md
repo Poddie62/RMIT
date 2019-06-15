@@ -1,5 +1,9 @@
 Who am I according to some tests
 
+
+
+![Myers Briggs Image](MyersBriggs.png)
+
 Myers Briggs Test
 (Source 1: 16 Personalities) 
 
