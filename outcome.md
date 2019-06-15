@@ -1,4 +1,6 @@
-Outcome and Problems faced 
+[Home](.)
+
+**Outcome and Problems faced** 
 
 As this project relies on a high level of member engagement or interest for it to be truly successful, it faces several real challenges. Most notably that we will be enabling people with very little experience to invest their own retirement funds. With increasingly volatile markets, customers face the risk of making uninformed decisions that could cause a loss of their funds. Additionally, the complexity and many steps in investing in an informed manner are likely to discourage people from attempting to get involved. 
 To combat both of these issues, the project requires a marketing campaign and educational guide to explain how it works while also attracting awareness. 
